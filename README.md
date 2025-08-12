@@ -22,7 +22,7 @@ This plot includes all 113 populations from the complete dataset. It provides a 
 
 ## Analysis 2: Refined Visualization (112 Populations)
 
-This plot excludes the "Faza_Bajun" population. As an outlier, its removal can sometimes provide a clearer visualization of the relationships between the other populations.
+This plot excludes the "Faza_Bajun" population. As an outlier, its removal provides a clearer visualization of the relationships between the other populations.
 
 *   **PCoA Quality Score (Variance Explained by 3D Map):** `83.38%`
 
