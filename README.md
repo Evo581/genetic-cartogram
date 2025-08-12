@@ -16,7 +16,7 @@ This plot includes all 113 populations from the complete dataset. It provides a 
 
 **You can view and interact with the full 3D plot here:**
 
-**[https://your-username.github.io/your-new-repo-name/pcoa_plot_3d_full.html](https://your-username.github.io/your-new-repo-name/pcoa_plot_3d_full.html)**
+**[https://Evo581.github.io/genetic-cartogram/pcoa_plot_3d_full.html](https://Evo581.github.io/genetic-cartogram/pcoa_plot_3d_full.html)**
 
 ---
 
@@ -30,7 +30,7 @@ This plot excludes the "Faza_Bajun" population. As an outlier, its removal can s
 
 **You can view and interact with the refined 3D plot here:**
 
-**[https://your-username.github.io/your-new-repo-name/pcoa_plot_3d_no_Faza_Bajun.html](https://your-username.github.io/your-new-repo-name/pcoa_plot_3d_no_Faza_Bajun.html)**
+**[https://Evo581.github.io/genetic-cartogram/pcoa_plot_3d_no_Faza_Bajun.html](https://Evo581.github.io/genetic-cartogram/pcoa_plot_3d_no_Faza_Bajun.html)**
 
 ---
 *Visualizations generated in Python with assistance from Google's Gemini 2.5 Pro. Data sourced from the premium version of Davide Piffer's [Population Genetic Distance Explorer](https://pifferpilfer.substack.com/p/new-population-genetic-distance-explorer).*
