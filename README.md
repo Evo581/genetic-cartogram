@@ -8,6 +8,6 @@ The plot was generated in Python using a Principal Coordinates Analysis (PCoA) t
 
 **You can view and interact with the full 3D plot here:**
 
-[https://your-username.github.io/genetic-cartogram/genetic_neighborhood.html](https://your-username.github.io/genetic-cartogram/genetic_neighborhood.html)
+[pcoa_plot_3d.html](pcoa_plot_3d.html)
 
 *(Replace the URL above with the live link you copied from the GitHub Pages settings)*
