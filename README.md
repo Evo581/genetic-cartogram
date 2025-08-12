@@ -9,5 +9,3 @@ The plot was generated in Python using a Principal Coordinates Analysis (PCoA) t
 **You can view and interact with the full 3D plot here:**
 
 [https://evo581.github.io/genetic-cartogram/](https://evo581.github.io/genetic-cartogram/)
-
-*(Replace the URL above with the live link you copied from the GitHub Pages settings)*
